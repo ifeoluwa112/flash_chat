@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71927438128",
+    "project_id": "flash-chat-4055f",
+    "storage_bucket": "flash-chat-4055f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71927438128:android:4b18730bdd10dbf2c706f5",
+        "android_client_info": {
+          "package_name": "com.ifeoluwa.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOlR--bi4dqWY3LjRYQPiDrRiFHhIrzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
